@@ -67,3 +67,6 @@ Developers should choose a particular method based on the project's requirements
 (a)Online or live gaming  
 (b)Live streaming  
 (c)Video calls  
+
+***Throughput***  
+-It is the number of operations the system can handle in a particular time or the number of data passed via network request in a given time. 
