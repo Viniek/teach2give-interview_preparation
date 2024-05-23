@@ -72,3 +72,33 @@ Developers should choose a particular method based on the project's requirements
 -It is the number of operations the system can handle in a particular time or the number of data passed via network request in a given time. 
 -***It is measured in megabytes (MB) per second.***
 -Used to check the capability of the systems. If the throughput of the server is low, architectures can scale the server to make it efficient.
+
+#### .3. Consistency Patterns and Availability Patterns
+***Consistency***  
+In the case of a banking system,if consistent,it will subtract the withdrawn balance only once from the total balance.
+
+***Availability***  
+ The system's availability ensures that each request receives a response either with fresh or old data. The availability is important when high uptime is needed.
+#### Consistency Patterns
+<ol>
+<li>Strong consistency:  
+
+- Ensures that each request gets the most recent data.
+ To achieve strong consistency, you require synchronized communication. It prioritizes consistency over availability.  
+ <li>Eventual Consistency  
+ 
+ - Allows temporary inconsistencies to be resolved soon. It prioritizes availability over consistency.
+ <li> Weak Consistency
+ 
+ - Here,the user may get fresh data after writing the data.
+ - It focuses on the fast access and can be used in live streaming or video chat.
+ #### Availability Patterns
+ <ol>
+ <li>Load Balancing  
+ 
+ - The upcoming request can be distributed across multiple servers to achieve high availability.
+ - As we balance the load here, it is called the load balancing.
+ <li>Retry and timeout strategies
+
+ - Importance-to process the request after every interval if the system fails or if not available.
+ ## Advanced Concepts in System Design
