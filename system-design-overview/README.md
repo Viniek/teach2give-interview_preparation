@@ -16,3 +16,9 @@
 <li>Decide how to make the application scalable in case the traffic increases. You can have multiple servers worldwide and serve the resources to users from the nearest server to make their applications efficient.
 
 #### ***System Design Methods*** 
+Developers should choose a particular method based on the project's requirements. 
+
+***1. Architectural Design*** 
+
+- Being the base of the system design, it describes the infrastructure, model, view, components and interaction.  
+ - It includes client-server interaction and microservices.
