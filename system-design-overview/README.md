@@ -44,3 +44,8 @@ Developers should choose a particular method based on the project's requirements
 ***5. Sequence Diagrams***
 - Represent the interaction between the various components of the system. 
 - Used to model the behavior of the system.
+### System Design Concepts
+#### 1. Performance vs Scalability  
+- ***Performance***
+
+-Involves evaluation of the time a website takes to load. 
