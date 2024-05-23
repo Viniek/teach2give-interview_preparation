@@ -58,3 +58,7 @@ Developers should choose a particular method based on the project's requirements
 (a)By distributing the load across multiple servers  
 (b) Increasing the single server's capacity.  
 (c)By developing a new server.
+
+#### 2. Latency vs Throughput
+***Latency***  
+-Measurement of the time delay to complete a single request or data operation.  
