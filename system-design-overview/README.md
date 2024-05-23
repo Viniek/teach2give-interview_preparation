@@ -18,7 +18,21 @@
 #### ***System Design Methods*** 
 Developers should choose a particular method based on the project's requirements. 
 
+
 ***1. Architectural Design*** 
 
 - Being the base of the system design, it describes the infrastructure, model, view, components and interaction.  
  - It includes client-server interaction and microservices.
+ 
+ ***2. ERD Diagram(Entity-relationship diagram)***  
+ 
+ Its uses include:  
+ - In designing the application's database structure.
+ - Used to define multiple database schemas 
+ - Used to add entities in each schema 
+ - Used to add multiple attributes for each entity
+ - Used to connect the entities of two different schemas if a relationship exists between them. 
+
+ ***3. UML Diagram(Unified modeling language)***  
+ - It contains different diagrams like activity diagrams, class diagrams and sequence diagrams to represent the different aspects of the system.
+ - Used to prepare modeling software systems.  
