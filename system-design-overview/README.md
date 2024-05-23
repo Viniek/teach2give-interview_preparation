@@ -70,3 +70,5 @@ Developers should choose a particular method based on the project's requirements
 
 ***Throughput***  
 -It is the number of operations the system can handle in a particular time or the number of data passed via network request in a given time. 
+-***It is measured in megabytes (MB) per second.***
+-Used to check the capability of the systems. If the throughput of the server is low, architectures can scale the server to make it efficient.
