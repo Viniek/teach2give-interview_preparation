@@ -40,3 +40,5 @@ Developers should choose a particular method based on the project's requirements
  ***4.Class Diagrams***
 -  Used to represent the classes and  provides an overview of the system's data and functionality.
 - They can contain the class's attributes, methods and relationships between multiple classes.
+
+***5. Sequence Diagrams***
