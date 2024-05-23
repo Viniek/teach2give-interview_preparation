@@ -5,3 +5,4 @@
 #### Importance of the Concept 
 <ol>
 <li>Vital in building scalable and reliable software.
+<li>Helps tech giant companies like Google, Microsoft and Amazon to  check the interviewer's ability to think about building the application's architecture from scratch. 
