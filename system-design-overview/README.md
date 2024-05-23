@@ -14,3 +14,5 @@
 - can be functional and non-functional.Non-functional requirements include scalability, high availability and consistency 
 <li>System design- Prepare the architecture for the application according to requirements.It includes deciding whether  to use SQL or NoSQL databases based on the data you need to store.
 <li>Decide how to make the application scalable in case the traffic increases. You can have multiple servers worldwide and serve the resources to users from the nearest server to make their applications efficient.
+
+#### ***System Design Methods*** 
