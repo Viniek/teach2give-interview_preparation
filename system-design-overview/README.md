@@ -102,3 +102,8 @@ In the case of a banking system,if consistent,it will subtract the withdrawn bal
 
  - Importance-to process the request after every interval if the system fails or if not available.
  ## Advanced Concepts in System Design
+#### 1. CDN(Content delivery network)
+-Is a distributed server network located at different geo-locations.  
+uses:
+- To deliver content like images, various data, etc., from the server.
+-The CDN delivers the resource faster, decreases latency (network delay), and improves the application's performance.
