@@ -62,4 +62,8 @@ Developers should choose a particular method based on the project's requirements
 #### 2. Latency vs Throughput
 ***Latency***  
 -Measurement of the time delay to complete a single request or data operation.  
--It is a network delay that occurs due to Geographical distance, transport protocol, or network infrastructure and ***measured  in Milliseconds.***
+-It is a network delay that occurs due to Geographical distance, transport protocol, or network infrastructure and ***measured  in Milliseconds.***  
+-Uses:  
+(a)Online or live gaming  
+(b)Live streaming  
+(c)Video calls  
