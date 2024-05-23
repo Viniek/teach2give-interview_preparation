@@ -54,5 +54,7 @@ Developers should choose a particular method based on the project's requirements
 
 - ***Scalability***
 -It is the ability to scale the application.  
--Scaling technique  
+-Scaling techniques: 
 (a)By distributing the load across multiple servers  
+(b) Increasing the single server's capacity.  
+(c)By developing a new server.
