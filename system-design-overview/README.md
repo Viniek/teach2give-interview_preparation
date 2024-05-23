@@ -53,3 +53,6 @@ Developers should choose a particular method based on the project's requirements
 -Mechanisms to increase the application's performance and serve resources faster  include caching. 
 
 - ***Scalability***
+-It is the ability to scale the application.  
+-Scaling technique  
+(a)By distributing the load across multiple servers  
