@@ -25,7 +25,7 @@ Developers should choose a particular method based on the project's requirements
  - It includes client-server interaction and microservices.
  
  ***2. ERD Diagram(Entity-relationship diagram)***  
- 
+
  Its uses include:  
  - In designing the application's database structure.
  - Used to define multiple database schemas 
@@ -36,3 +36,7 @@ Developers should choose a particular method based on the project's requirements
  ***3. UML Diagram(Unified modeling language)***  
  - It contains different diagrams like activity diagrams, class diagrams and sequence diagrams to represent the different aspects of the system.
  - Used to prepare modeling software systems.  
+
+ ***4.Class Diagrams***
+-  Used to represent the classes and  provides an overview of the system's data and functionality.
+- They can contain the class's attributes, methods and relationships between multiple classes.
