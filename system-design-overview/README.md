@@ -49,3 +49,7 @@ Developers should choose a particular method based on the project's requirements
 - ***Performance***
 
 -Involves evaluation of the time a website takes to load. 
+-Disadvantage of poor performance-Traffic can decrease as visitors prefer to go to other websites.  
+-Mechanisms to increase the application's performance and serve resources faster  include caching. 
+
+- ***Scalability***
