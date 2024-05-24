@@ -107,3 +107,25 @@ In the case of a banking system,if consistent,it will subtract the withdrawn bal
 uses:
 - To deliver content like images, various data, etc., from the server.
 -The CDN delivers the resource faster, decreases latency (network delay), and improves the application's performance.
+
+### 2. DNS(Domain name system)
+- Allows users to access the website and its resources using the domain name (e.g., www.example.com) and maps the unique domain name with a unique IP address. So, whenever you make a request for the resources of the particular domain name, it returns the resources of IP addresses, which are mapped with the domain name.
+
+### 3. Caching
+
+- Also called high-speed storage.  
+- It is a mechanism to serve resources faster  between the web application and the source of the data.
+-Its working- it requests the database or source of the data, stores it in the cache storage, and sends data to the application.
+
+### 4. Proxies  
+
+![Proxies Diagram](./assets/proxies.webp") 
+- Also called the proxy server which   works between the client of the application and the internet.
+ - Whenever you request to get resources from the internet, the application requests the proxy server, and the proxy server gets resources and sends them back to the application.
+
+The proxy servers are used for the caching.
+
+#### Components of System Design
+***1.Microservices and Service Discovery***
+- They break down complex applications into small services, such that each service works independently and accomplishes specific tasks.
+**Concepts  related to the microservices.**
