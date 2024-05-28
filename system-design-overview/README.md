@@ -226,4 +226,5 @@ Approach:
 
 ***4. How would you design the API rate limit?***
 - Talk about rate-limit matrics- how many maximum requests do you want to allow per second?
+- Talk about how you will handle multiple requests simultaneously.
 
