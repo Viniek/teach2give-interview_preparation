@@ -230,4 +230,5 @@ Approach:
 - Talk about how you can keep count of requests. You may use the IP address received in the request header.
 ### Resources for Further Learning ###
 1.System Design Interview Survival Guide (2024): Preparation Strategies and Practical Tips  
+2.The Complete Guide to Ace the System Design Interview  
 
