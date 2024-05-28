@@ -228,3 +228,5 @@ Approach:
 - Talk about rate-limit matrics- how many maximum requests do you want to allow per second?
 - Talk about how you will handle multiple requests simultaneously.
 - Talk about how you can keep count of requests. You may use the IP address received in the request header.
+### Resources for Further Learning ###
+
