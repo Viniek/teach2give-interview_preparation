@@ -222,3 +222,7 @@ Approach:
 - Discuss algorithms to show trending or latest posts.
 - Talk about handling user’s data in the database, as users will publish multiple posts.
 - Discuss database replication to handle failures.
+- Discuss data caching and load balancing.
+
+***4. How would you design the API rate limit?***
+
