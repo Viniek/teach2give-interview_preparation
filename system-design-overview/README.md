@@ -219,4 +219,5 @@ Approach:
 - Talk about how you will implement the chat features. 
 - Talk about integrating third-party chatting applications.
 - Discuss how you will implement the authentication.
+- Discuss algorithms to show trending or latest posts.
 
