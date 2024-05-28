@@ -231,4 +231,4 @@ Approach:
 ### Resources for Further Learning ###
 1.System Design Interview Survival Guide (2024): Preparation Strategies and Practical Tips  
 2.The Complete Guide to Ace the System Design Interview  
-
+3.Ace Your System Design Interview with 7 Must-Read Papers in 2024
