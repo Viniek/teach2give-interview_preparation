@@ -225,4 +225,5 @@ Approach:
 - Discuss data caching and load balancing.
 
 ***4. How would you design the API rate limit?***
+- Talk about rate-limit matrics- how many maximum requests do you want to allow per second?
 
