@@ -216,4 +216,5 @@ Followers and following features
 Approach:
 
 - Talk about how you will handle the relationship between users in the database.
+- Talk about how you will implement the chat features. 
 
