@@ -220,4 +220,4 @@ Approach:
 - Talk about integrating third-party chatting applications.
 - Discuss how you will implement the authentication.
 - Discuss algorithms to show trending or latest posts.
-
+- Talk about handling user’s data in the database, as users will publish multiple posts.
