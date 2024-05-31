@@ -1,5 +1,5 @@
 function fizz(num) {
-    for(num=0, num++, num<100)
+    for(let num=1;num<=100; num++)
     if (num % 3 === 0 && num % 5 === 0) {
         return 'fizzBuzz';
     } else if (num % 3 === 0) {
